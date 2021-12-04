@@ -1,6 +1,8 @@
 # SEIS-610-Poem
 Git Hello World!
 
+# Poem
+
 ## The Road Not Taken by Robert Frost
 
 > Two roads diverged in a yellow wood,
@@ -26,6 +28,8 @@ Git Hello World!
 > Two roads diverged in a wood, and I—
 > I took the one less traveled by,
 > And that has made all the difference.
+
+# Quote
 
 > Everything negative – pressure, challenges – is all an opportunity for me to rise.
 -Kobe Bryant
